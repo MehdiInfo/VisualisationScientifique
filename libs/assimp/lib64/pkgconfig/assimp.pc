@@ -1,0 +1,9 @@
+libdir=/home/Invite/DATA/M2/assimp/build/install/lib64
+includedir=/home/Invite/DATA/M2/assimp/build/install/include
+
+Name: Assimp
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 5.3.0
+Libs: -L${libdir} -lassimp
+Libs.private: -lstdc++ -lz
+Cflags: -I${includedir}

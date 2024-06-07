@@ -1,0 +1,15 @@
+**/debug/
+**/moc/
+**/obj/
+**/release/
+*.pro.user
+*.exe
+**/Makefile*
+**/.qmake.stash
+**/.qglviewer.xml
+**/Build/
+**/build/
+**/examples/
+**/tests/
+**/docs/
+**/.vscode/
